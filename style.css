@@ -17,7 +17,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 8%;
-    background-color: rgb(154, 153, 153);
+    background-color: white;
 }
 
 header h2 {
@@ -86,7 +86,7 @@ nav a {
 .features {
     padding: 60px 8%;
     text-align: center;
-    background-color: rgb(169, 160, 160);
+    background-color: white;
 }
 
 .features h2 {
